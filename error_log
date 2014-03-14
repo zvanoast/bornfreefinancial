@@ -1,0 +1,29 @@
+
+[06-Mar-2014 14:28:04 America/Chicago] fname: test
+[06-Mar-2014 14:28:17 America/Chicago] calling login_check
+[06-Mar-2014 14:28:17 America/Chicago] session email: test@test.com
+[06-Mar-2014 14:28:30 America/Chicago] fname: z\n
+[06-Mar-2014 14:28:30 America/Chicago] mname: \n
+[06-Mar-2014 14:28:30 America/Chicago] lname: v\n
+[06-Mar-2014 14:28:30 America/Chicago] dob: 1234\n
+[06-Mar-2014 14:28:30 America/Chicago] maritalStatus: Single\n
+[06-Mar-2014 14:28:30 America/Chicago] password: c12834f1031f6497214f27d4432f26517ad494156cb88d512bdb1dc4b57db2d692a3dfa269a19b0a0a2a0fd7d6a2a885e33c839c93c206da30a187392847ed27\n
+[06-Mar-2014 14:28:30 America/Chicago] educationLevel: HighSchoolDiploma\n
+[06-Mar-2014 14:28:30 America/Chicago] sex: \n
+[06-Mar-2014 14:28:30 America/Chicago] phone: \n
+[06-Mar-2014 14:28:30 America/Chicago] address: \n
+[06-Mar-2014 14:28:30 America/Chicago] occupation: \n
+[06-Mar-2014 14:33:04 America/Chicago] calling login_check
+[06-Mar-2014 14:33:04 America/Chicago] session email: zachvanoast@gmail.com
+[06-Mar-2014 14:34:15 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/twhooker/public_html/beta/protected_page.php on line 27
+[06-Mar-2014 14:34:16 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/twhooker/public_html/beta/protected_page.php on line 27
+[06-Mar-2014 14:36:03 America/Chicago] calling login_check
+[06-Mar-2014 14:36:03 America/Chicago] session email: test@test.com
+[06-Mar-2014 14:36:03 America/Chicago] fail 2
+[06-Mar-2014 14:56:40 America/Chicago] calling login_check
+[06-Mar-2014 14:56:40 America/Chicago] session email: zachvanoast@gmail.com
+[06-Mar-2014 14:56:58 America/Chicago] calling login_check
+[06-Mar-2014 14:56:58 America/Chicago] session email: 
+[06-Mar-2014 14:56:58 America/Chicago] fail 4
+[06-Mar-2014 15:14:09 America/Chicago] calling login_check
+[06-Mar-2014 15:14:09 America/Chicago] session email: zach2@zach.com

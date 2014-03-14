@@ -1,0 +1,54 @@
+[06-Mar-2014 14:58:33 America/Chicago] 1394139513
+[06-Mar-2014 15:04:39 America/Chicago] 1394139879
+[06-Mar-2014 15:04:58 America/Chicago] 1394139898
+[06-Mar-2014 15:05:02 America/Chicago] 1394139902
+[06-Mar-2014 15:05:08 America/Chicago] 1394139908
+[06-Mar-2014 15:06:21 America/Chicago] 1394139981
+[06-Mar-2014 15:07:19 America/Chicago] valid: valid_attempts
+[06-Mar-2014 15:07:19 America/Chicago] 1394140039
+[06-Mar-2014 15:07:26 America/Chicago] valid: valid_attempts
+[06-Mar-2014 15:07:26 America/Chicago] 1394140046
+[06-Mar-2014 15:08:15 America/Chicago] valid: 1394136495
+[06-Mar-2014 15:08:15 America/Chicago] 1394140095
+[06-Mar-2014 15:09:55 America/Chicago] valid: 1394136595
+[06-Mar-2014 15:10:42 America/Chicago] valid: 1394136642
+[06-Mar-2014 15:10:42 America/Chicago] brute!
+[06-Mar-2014 15:12:52 America/Chicago] valid: 1394136772
+[06-Mar-2014 15:12:52 America/Chicago] brute!
+[06-Mar-2014 15:13:05 America/Chicago] valid: 1394136785
+[06-Mar-2014 15:13:05 America/Chicago] brute!
+[06-Mar-2014 15:14:08 America/Chicago] valid: 1394136848
+[06-Mar-2014 15:14:08 America/Chicago] no brute
+[06-Mar-2014 15:18:25 America/Chicago] valid: 1394137105
+[06-Mar-2014 15:18:25 America/Chicago] brute!
+[06-Mar-2014 15:18:55 America/Chicago] valid: 1394137135
+[06-Mar-2014 15:18:55 America/Chicago] brute!
+[06-Mar-2014 15:19:12 America/Chicago] valid: 1394137152
+[06-Mar-2014 15:19:12 America/Chicago] brute!
+[06-Mar-2014 15:22:13 America/Chicago] valid: 1394137333
+[06-Mar-2014 15:22:13 America/Chicago] brute!
+[06-Mar-2014 15:22:19 America/Chicago] valid: 1394137339
+[06-Mar-2014 15:22:19 America/Chicago] brute!
+[06-Mar-2014 15:22:35 America/Chicago] valid: 1394137355
+[06-Mar-2014 15:22:35 America/Chicago] brute!
+[06-Mar-2014 15:22:41 America/Chicago] valid: 1394137361
+[06-Mar-2014 15:22:41 America/Chicago] brute!
+[06-Mar-2014 15:23:18 America/Chicago] valid: 1394137398
+[06-Mar-2014 15:23:18 America/Chicago] brute!
+[06-Mar-2014 15:23:24 America/Chicago] valid: 1394137404
+[06-Mar-2014 15:23:24 America/Chicago] brute!
+[06-Mar-2014 15:24:48 America/Chicago] valid: 1394137488
+[06-Mar-2014 15:24:48 America/Chicago] brute!
+[06-Mar-2014 15:24:56 America/Chicago] valid: 1394137496
+[06-Mar-2014 15:24:56 America/Chicago] no brute
+[06-Mar-2014 15:24:56 America/Chicago] 1394141096
+[06-Mar-2014 15:26:50 America/Chicago] valid: 1394137610
+[06-Mar-2014 15:26:50 America/Chicago] brute!
+[06-Mar-2014 15:27:08 America/Chicago] valid: 1394137628
+[06-Mar-2014 15:27:08 America/Chicago] brute!
+[06-Mar-2014 15:27:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/twhooker/public_html/beta/includes/functions.php:66) in /home2/twhooker/public_html/beta/includes/process_login.php on line 16
+[06-Mar-2014 15:27:36 America/Chicago] valid: 1394137656
+[06-Mar-2014 15:27:36 America/Chicago] brute!
+[06-Mar-2014 15:27:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/twhooker/public_html/beta/includes/functions.php:66) in /home2/twhooker/public_html/beta/includes/process_login.php on line 16
+[06-Mar-2014 15:29:51 America/Chicago] valid: 1394137791
+[06-Mar-2014 15:29:51 America/Chicago] brute!
