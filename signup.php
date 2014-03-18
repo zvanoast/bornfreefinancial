@@ -30,7 +30,7 @@
                   <li class="divider"></li>
                   <li><a href="login.php" target="_blank">LOG IN</a></li>
                   <li class="divider"></li>
-                  <li><a href="signup.php" target="_blank">SIGNUP</a></li>
+                  <li><a href="signup.php" target="_blank">SIGNUP</a></li><!--hello world-->
                   <li class="divider"></li>
                   <li class="has-dropdown"><a href="social.html" target="_blank">SOCIAL</a>
                      <ul class="dropdown">
